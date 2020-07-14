@@ -6,6 +6,8 @@ Here are some ideas to get you started:
   - A platform to manage my finances 
   
 - 🌱 I’m currently learning ...
+  - Rust 
+  - Typescript
   - kustomize and some gitops 
   
 - 💬 Ask me about ...
