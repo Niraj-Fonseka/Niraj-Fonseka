@@ -3,7 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-  - A platform to manage my finances 
+  - A platform to manage my finances
+  - a command line tool to manage my personal stuff
   
 - 🌱 I’m currently learning ...
   - Rust 
