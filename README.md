@@ -3,13 +3,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+  - Making this profile readme fancier 
   - A platform to manage my finances
-  - a command line tool to manage my personal stuff
   
 - 🌱 I’m currently learning ...
   - Rust 
   - Typescript
-  - kustomize and some gitops 
   
 - 💬 Ask me about ...
   - Go
