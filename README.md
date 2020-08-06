@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
   - Making this profile readme fancier 
   - A platform to manage my finances
@@ -18,4 +16,3 @@ Here are some ideas to get you started:
   
 - 📫 How to reach me: ...
   - email : fonseka.live@gmail.com
--->
