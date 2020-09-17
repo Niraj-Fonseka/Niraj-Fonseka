@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - Making this profile readme fancier 
   - A platform to manage my finances
+  - Website to view resturant inspection scores in Austin.TX 
   
 - 🌱 I’m currently learning ...
   - Rust 
