@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🔭 I’m currently working on ...
   - A platform to manage my finances
