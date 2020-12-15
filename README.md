@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on ...
   - A platform to manage my finances
+  - Advent of Code 2020
   
 - 🌱 I’m currently learning ...
   - Rust 
