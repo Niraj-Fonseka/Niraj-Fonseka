@@ -6,8 +6,6 @@
   
 - 🌱 I’m currently learning ...
   - Rust 
-  - Typescript
-  - AWS 
   
 - 💬 Ask me about ...
   - Go
