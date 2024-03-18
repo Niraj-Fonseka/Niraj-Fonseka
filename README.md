@@ -23,3 +23,6 @@
 <a href="https://github.com/Niraj-Fonseka">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
+<a href="https://github.com/Niraj-Fonseka">
+    <img align="center" width="49%" src="./stars.svg" />
+</a>

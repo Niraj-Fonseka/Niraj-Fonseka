@@ -157,3 +157,21 @@ jobs:
           template: classic
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
+
+  stars:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: stars.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          user: Niraj-Fonseka
+          template: classic
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
